@@ -1,0 +1,8 @@
+.login {
+    width: 450px;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate3d(-50%,70%, 0);
+  }
+   
